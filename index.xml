@@ -6,9 +6,40 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 13:16:34 +1200</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>No history yet, sorry</title>
+      <link>http://example.org/c/</link>
+      <pubDate>Sun, 01 Jul 2018 13:16:34 +1200</pubDate>
+      
+      <guid>http://example.org/c/</guid>
+      <description>Just trying to make a static page here.
+Enjoy</description>
+    </item>
+    
+    <item>
+      <title>Nothing interesting here</title>
+      <link>http://example.org/a/</link>
+      <pubDate>Sat, 30 Jun 2018 14:44:15 +1200</pubDate>
+      
+      <guid>http://example.org/a/</guid>
+      <description>Just trying to make a static page here.
+Enjoy</description>
+    </item>
+    
+    <item>
+      <title>Tika&#39;s born</title>
+      <link>http://example.org/dir1/b/</link>
+      <pubDate>Wed, 28 May 1986 14:44:31 +1200</pubDate>
+      
+      <guid>http://example.org/dir1/b/</guid>
+      <description>Just trying to make a static page here.
+Enjoy</description>
+    </item>
     
   </channel>
 </rss>

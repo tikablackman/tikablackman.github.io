@@ -3107,7 +3107,7 @@
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 100vh;
+		min-height: 80vh;
 	}
 
 		#intro input, #intro select, #intro textarea {
@@ -3270,7 +3270,7 @@
 
 			#intro {
 				padding: 3rem 2rem 1rem 2rem ;
-				min-height: 58vh;
+				min-height: 48vh;
 			}
 
 				#intro h1 {
@@ -3383,8 +3383,8 @@
 		}
 
 			#header .logo:hover {
-				border-color: #18bfef !important;
-				color: #18bfef !important;
+				border-color: #ff0000!important;
+				color: #ff0000 !important;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3528,7 +3528,7 @@
 					}
 
 				#nav ul.links li.active {
-					background-color: #ffffff;
+					background-color: #ccc;
 				}
 
 					#nav ul.links li.active a {
@@ -3536,7 +3536,7 @@
 					}
 
 						#nav ul.links li.active a:hover {
-							color: #18bfef !important;
+							color: #ff0000 !important;
 						}
 
 		#nav ul.icons {

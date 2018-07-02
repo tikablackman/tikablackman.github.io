@@ -316,10 +316,6 @@
 
 	@media screen and (max-width: 1680px) {
 
-		.fullwidth img {
-			width: 100% !important; 
-		}
-
 		.row > * {
 			padding: 0 0 0 1.5rem;
 		}
